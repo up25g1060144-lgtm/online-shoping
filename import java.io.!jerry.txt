@@ -1,0 +1,8 @@
+import java.io.*!
+class first
+{
+public static void main(string args[])
+{
+system out print in("welcome");
+}
+}
